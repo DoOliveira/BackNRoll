@@ -14,8 +14,6 @@ body {
 }
 .navigation {
   background-color: #570000;
-  width: 100vw;
-  height: 15vh;
 }
 header nav ul {
   display: flex;
