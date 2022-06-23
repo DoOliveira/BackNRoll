@@ -17,6 +17,7 @@ body {
   width: 100vw;
   height: 15vh;
 }
+
 .containerSwiper {
   margin: auto;
   width: 100%;
@@ -101,4 +102,22 @@ body {
   background-color: rgb(27, 26, 26);
   width: 100vw;
   height: 10vh;
+}
+@media (max-width: 540px) {
+  .navigation {
+    display: none;
+  }
+  .one,
+  .two,
+  .three {
+    background-color: #fff;
+    height: 5px;
+    width: 100%;
+    margin: 6px auto;
+  }
+  .menu-toggle {
+    width: 40px;
+    height: 30px;
+    margin-right: 20px;
+  }
 }
