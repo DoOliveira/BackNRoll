@@ -74,7 +74,6 @@ header nav ul li a:hover {
 
 .swiper {
   margin: auto;
-  margin-top: 3vh;
 }
 .textoMarcas {
   color: #fff;
@@ -103,7 +102,7 @@ header nav ul li a:hover {
     'fig1 fig2 fig3'
     'fig4 fig5 fig6';
   width: 100%;
-  max-width: 98rem;
+  max-width: 980px;
   height: 35rem;
   gap: 0rem;
   margin-inline: auto;
