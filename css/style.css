@@ -56,6 +56,41 @@ body {
 .swiper {
   margin: auto;
 }
+.marcasitem1 {
+  grid-area: fig1;
+}
+.marcasitem2 {
+  grid-area: fig2;
+}
+.marcasitem3 {
+  grid-area: fig3;
+}
+.marcasitem4 {
+  grid-area: fig4;
+}
+.marcasitem5 {
+  grid-area: fig5;
+}
+.marcasitem6 {
+  grid-area: fig6;
+}
+.gridMarcas {
+  display: grid;
+  grid-template-areas: 
+    'fig1 fig2 fig3'
+    'fig4 fig5 fig6';
+  width: 100%;
+  max-width: 98rem;
+  height: 35rem;
+  gap: 0rem;
+  margin-inline: auto;
+  align-items: center;
+  justify-items: center;
+}
+.containerMarcas {
+  background-color: black;
+}
+
 .footer {
   background-color: rgb(27, 26, 26);
   width: 100vw;
