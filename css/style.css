@@ -35,11 +35,11 @@ header nav ul li a {
 header nav ul li a:hover {
   background: rgba(255, 255, 255, 0.15);
 }
-.containerLogo {
+.container-logo {
   display: flex;
   margin: auto;
 }
-.imagemLogo {
+.imagem-logo {
   display: block;
   margin: auto;
   width: 18rem;
