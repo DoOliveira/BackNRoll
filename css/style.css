@@ -124,7 +124,7 @@ header nav ul li a {
     background-color: #fff;
     height: 5px;
     width: 100%;
-    margin: 6px auto;
+    margin: auto;
   }
   .menu-toggle {
     width: 40px;
