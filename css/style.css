@@ -56,6 +56,7 @@ body {
 
 .swiper {
   margin: auto;
+  margin-top: 3vh;
 }
 .marcasitem1 {
   grid-area: fig1;
