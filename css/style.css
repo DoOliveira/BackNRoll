@@ -104,9 +104,6 @@ body {
   height: 10vh;
 }
 @media (max-width: 540px) {
-  .navigation {
-    display: none;
-  }
   .one,
   .two,
   .three {
