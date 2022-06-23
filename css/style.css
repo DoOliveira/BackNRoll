@@ -35,6 +35,15 @@ header nav ul li a {
 header nav ul li a:hover {
   background: rgba(255, 255, 255, 0.15);
 }
+.containerLogo {
+  display: flex;
+  margin: auto;
+}
+.imagemLogo {
+  display: block;
+  margin: auto;
+  width: 18rem;
+}
 .containerSwiper {
   margin: auto;
   width: 100%;
