@@ -11,6 +11,11 @@ body {
   margin: 0;
   padding: 0;
 }
+.navigation {
+  background-color: #570000;
+  width: 100vw;
+  height: 10vh;
+}
 .containerSwiper {
   margin: auto;
   width: 100%;
@@ -50,4 +55,9 @@ body {
 
 .swiper {
   margin: auto;
+}
+.footer {
+  background-color: rgb(27, 26, 26);
+  width: 100vw;
+  height: 10vh;
 }
