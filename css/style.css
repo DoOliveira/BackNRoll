@@ -58,6 +58,9 @@ body {
   margin: auto;
   margin-top: 3vh;
 }
+.textoMarcas {
+  color: #fff;
+}
 .marcasitem1 {
   grid-area: fig1;
 }
@@ -88,6 +91,7 @@ body {
   margin-inline: auto;
   align-items: center;
   justify-items: center;
+  text-align: center;
 }
 .containerMarcas {
   background-color: black;
