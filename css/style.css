@@ -35,9 +35,7 @@ header nav ul li a {
 header nav ul li a:hover {
   background: rgba(255, 255, 255, 0.15);
 }
-.container-logo img  {
-  order: -1;
-}
+
 .container-logo {
   display: flex;
   margin: auto;
