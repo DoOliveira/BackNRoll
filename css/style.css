@@ -52,7 +52,8 @@ header nav ul li a:hover {
 }
 .containerSwiper {
   display: flex;
-  margin: auto;
+  margin-left: 0;
+  margin-right: 0;
 }
 .container {
   display: flex;
