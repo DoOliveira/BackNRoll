@@ -38,6 +38,7 @@ header nav ul li a:hover {
 .container-logo {
   display: flex;
   margin: auto;
+  justify-items: start;
 }
 
 .imagem-logo {
