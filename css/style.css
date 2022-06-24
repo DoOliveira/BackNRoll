@@ -124,7 +124,7 @@ header nav ul li a:hover {
     'fig4 fig5 fig6';
   width: 100%;
   height: 5vh;
-  max-width: 550px;
+  max-width: 500px;
   gap: 2rem;
   margin-inline: auto;
   align-items: center;
