@@ -40,6 +40,9 @@ header nav ul li a:hover {
   display: flex;
   margin: auto;
 }
+.container-logo img {
+  order: -1;
+}
 .imagem-logo {
   display: block;
   margin: auto;
@@ -54,6 +57,7 @@ header nav ul li a:hover {
   align-items: center;
   justify-content: center;
 }
+
 .swiper {
   width: 100%;
   height: 100%;
