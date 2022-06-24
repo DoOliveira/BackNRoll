@@ -60,7 +60,8 @@ header nav ul li a:hover {
 .container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
+  font-family: 'Nunito', sans-serif;
 }
 
 .swiper {
