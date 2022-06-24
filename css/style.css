@@ -36,6 +36,8 @@ header nav ul li a {
   font-size: 1.4rem;
   padding: 2.4px;
   transition: all 250ms linear 0s;
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
 }
 header nav ul li a:hover {
   background: rgba(255, 255, 255, 0.15);
