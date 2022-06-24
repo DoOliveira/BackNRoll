@@ -93,8 +93,7 @@ header nav ul li a:hover {
   margin: auto;
 
   margin-bottom: 2.3rem;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top: 2.3rem;
 }
 .textoMarcas {
   color: #fff;
@@ -117,6 +116,13 @@ header nav ul li a:hover {
 .marcasitem6 {
   grid-area: fig6;
 }
+.marcas {
+  margin-inline: auto;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  margin: auto;
+}
 .gridMarcas {
   display: grid;
   grid-template-areas: 'fig1 fig2 fig3 fig4 fig5 fig6';
@@ -124,11 +130,6 @@ header nav ul li a:hover {
   height: 5vh;
   max-width: 80rem;
   gap: 2rem;
-  margin-inline: auto;
-  align-items: center;
-  justify-items: center;
-  text-align: center;
-  margin: auto;
 }
 .containerMarcas {
   background-color: black;
