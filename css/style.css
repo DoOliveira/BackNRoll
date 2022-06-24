@@ -17,6 +17,10 @@ body {
   background-color: #570000;
   width: 100%;
   height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-family: 'Nunito', sans-serif;
 }
 
 header nav ul {
@@ -50,12 +54,6 @@ header nav ul li a:hover {
 .containerSwiper {
   display: flex;
   margin: auto;
-}
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  font-family: 'Nunito', sans-serif;
 }
 
 .swiper {
