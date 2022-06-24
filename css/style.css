@@ -40,15 +40,18 @@ header nav ul li a {
 header nav ul li a:hover {
   background: rgba(255, 255, 255, 0.15);
 }
+.container-logo {
+  display: flex;
+  margin: auto;
+}
 
 .imagem-logo {
-  display: block;
+  display: flex;
   margin: auto;
   width: 18rem;
 }
 .containerSwiper {
-  margin: auto;
-  width: 100%;
+  display: flex;
   margin: auto;
 }
 .container {
