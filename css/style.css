@@ -42,6 +42,10 @@ header nav ul li a {
 header nav ul li a:hover {
   background: rgba(255, 255, 255, 0.15);
 }
+.container-usuario {
+  width: 100%;
+  height: 12vh;
+}
 
 .imagem-logo {
   width: 10rem;
