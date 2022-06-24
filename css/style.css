@@ -17,7 +17,7 @@ body {
 .navigation {
   display: flex;
   justify-content: space-around;
-  align-items: center center;
+  align-items: center;
   background-color: #570000;
   font-family: 'Nunito', sans-serif;
   height: 13vh;
