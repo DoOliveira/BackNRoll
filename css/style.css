@@ -61,7 +61,7 @@ header nav ul li a:hover {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  font-family: 'Nunito', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .swiper {
