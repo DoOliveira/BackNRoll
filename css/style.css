@@ -40,7 +40,7 @@ header nav ul li a:hover {
   display: flex;
   margin: auto;
 }
-.container-logo img {
+.container .container-logo img {
   order: -1;
 }
 .imagem-logo {
