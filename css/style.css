@@ -12,9 +12,11 @@ body {
   padding: 0;
   background-color: #d9d9d9;
 }
+
 .navigation {
-  line-height: 4rem;
-  display: block;
+  background-color: #570000;
+  width: 100%;
+  height: 15vh;
 }
 header nav ul {
   display: flex;
@@ -37,9 +39,7 @@ header nav ul li a:hover {
   display: flex;
   margin: auto;
 }
-.container .container-logo img {
-  order: -1;
-}
+
 .imagem-logo {
   display: block;
   margin: auto;
@@ -52,10 +52,7 @@ header nav ul li a:hover {
 .container {
   display: flex;
   align-items: center;
-  justify-content: center;
-  background-color: #570000;
-  width: 100%;
-  height: 15vh;
+  justify-content: space-between;
 }
 
 .swiper {
@@ -209,5 +206,7 @@ header nav ul li a:hover {
   .menu-section.on nav ul a {
     transition-duration: 0.5s;
     font-size: 3rem;
+    line-height: 4rem;
+    display: block;
   }
 }
