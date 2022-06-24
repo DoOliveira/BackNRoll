@@ -123,8 +123,9 @@ header nav ul li a:hover {
     'fig1 fig2 fig3'
     'fig4 fig5 fig6';
   width: 100%;
-  max-width: 980px;
-  height: 35rem;
+  height: 100%;
+  max-width: 600px;
+  max-height: 35rem;
   gap: 0rem;
   margin-inline: auto;
   align-items: center;
